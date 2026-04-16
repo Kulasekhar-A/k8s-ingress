@@ -52,7 +52,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.annuru.online"
+  - host: "app2.annuru.online"
     http:
       paths:
       - pathType: Prefix
